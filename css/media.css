@@ -2,6 +2,10 @@
 
 @media screen and (max-width: 1024px) {
 
+    main {
+        height: 90vh;
+    }
+
     section {
         max-width: 300px;
     }
