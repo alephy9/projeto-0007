@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 1024px) {
+
+    section {
+        max-width: 300px;
+    }
+
+    .div2 p {
+        padding: 30px 5px;
+    }
+
+}
