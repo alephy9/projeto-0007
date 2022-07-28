@@ -1,2 +1,2 @@
 # projeto-7
- Um projeto elaborado pelo FrontEnd Mentor, onde vou desenvolver um site sobre Qr Code!
+ Um projeto elaborado pelo FrontEnd Mentor, onde desenvolvi um site sobre Qr Code!
